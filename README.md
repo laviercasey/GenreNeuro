@@ -51,7 +51,7 @@ Input (200 tokens) → Embedding(10000, 64) → GlobalAveragePooling1D → Dense
 ### Установка
 
 ```bash
-git clone https://github.com/<your-username>/GenreNeuro.git
+git clone https://github.com/laviercasey/GenreNeuro.git
 cd GenreNeuro
 
 python -m venv venv
